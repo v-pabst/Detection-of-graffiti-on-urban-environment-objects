@@ -1,2 +1,2 @@
 Датасет: 
-https://www.kaggle.com/datasets/pinstripezebra/graffiti-classification
+https://noonv.github.io/KGD/
